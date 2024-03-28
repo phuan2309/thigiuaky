@@ -1,0 +1,71 @@
+<div class="card">
+    <div class="card-header">
+        <h4 class="font-weight-bold">Update Product</h4>
+    </div>
+    <div class="card-body">
+        <form action="/updateProduct/<%= product._id %>" method="post">
+            <div class="row">
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="name">Name</label>
+                        <input type="text" class="form-control" value="<%= product.name %>" name="name" placeholder="enter name product" id="name">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="productnumber">Product Code</label>
+                        <input type="text" class="form-control" value="<%= product.productnumber %>" name="productnumber" placeholder="Enter your product code" id="productnumber">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="trademark">Trademark</label>
+                        <input type="text" class="form-control" value="<%= product.trademark %>" name="trademark" placeholder="enter trademark product" id="trademark">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="newprice">New price</label>
+                        <input type="number" class="form-control" value="<%= product.newprice %>" name="newprice" placeholder="enter newprice product" id="newprice">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="oldprice">Old price</label>
+                        <input type="number" class="form-control" value="<%= product.oldprice %>" name="oldprice" placeholder="enter oldprice product" id="oldprice">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="size">Size</label>
+                        <input type="text" class="form-control" value="<%= product.size %>" name="size" placeholder="enter size product" id="size">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="color">Color</label>
+                        <input type="text" class="form-control" value="<%= product.color %>" name="color" placeholder="enter color product" id="color">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="quantity">Quantity</label>
+                        <input type="number" class="form-control" value="<%= product.quantity %>" name="quantity" placeholder="0" id="quantity">
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="form-group">
+                        <label for="description">Description</label>
+                        <textarea class="form-control" name="description" id="description" rows="3">
+                        <%= product.description %>
+                        </textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="">
+                <button type="submit" class="btn btn-success">Update</button>
+                <a href="/" class="btn btn-light">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

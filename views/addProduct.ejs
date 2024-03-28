@@ -1,0 +1,69 @@
+<div class="card">
+    <div class="card-header">
+        <h5 class="font-weight-bold">Add New Product</h5>
+    </div>
+    <div class="card-body">
+        <form action="/addProduct" method="post">
+            <div class="row">
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="name"> Name Product</label>
+                        <input type="text" class="form-control" name="name" placeholder="enter your product name" id="name">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="productnumber">Product Code</label>
+                        <input type="text" class="form-control" name="productnumber" placeholder="Enter your product code" id="productnumber">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="trademark">Trademark</label>
+                        <input type="text" class="form-control" name="trademark" placeholder="Enter your trademark" id="trademark">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="newprice">New price</label>
+                        <input type="number" class="form-control" name="newprice" placeholder="Enter your newprice" id="newprice">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="oldprice">Old price</label>
+                        <input type="number" class="form-control" name="oldprice" placeholder="Enter your oldprice" id="oldprice">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="size">Size</label>
+                        <input type="text" class="form-control" name="size" placeholder="Enter your size" id="size">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="color">Color</label>
+                        <input type="text" class="form-control" name="color" placeholder="Enter your color" id="color">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label class="col-form-label" for="quantity">Quantity</label>
+                        <input type="number" class="form-control" name="quantity" placeholder="" id="quantity">
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label for="description">Description</label>
+                        <textarea class="form-control" name="description" id="description" rows="3"></textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="">
+                <button itype="submt" class="btn btn-success">Submit</button>
+                <a href="/" class="btn btn-light">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

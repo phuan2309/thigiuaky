@@ -1,0 +1,474 @@
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T11:59:56.620Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T11:59:56.647Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:04:17.325Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:04:17.345Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:04:31.517Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:04:31.538Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:04:33.108Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:04:33.124Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:04:38.279Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:04:38.320Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:04:40.293Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:04:40.323Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:04:42.074Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:04:42.091Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:04:46.594Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:04:46.617Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:04:48.319Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:04:48.340Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:04:50.697Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:04:50.735Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:04:53.103Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:04:53.124Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:07:46.843Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:07:46.861Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:07:48.932Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:07:48.965Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:08:56.366Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:08:56.384Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:11:10.943Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:11:10.960Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:11:28.909Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:11:28.948Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:11:30.804Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:11:30.822Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:11:47.459Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:11:47.479Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:11:50.695Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:11:50.711Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:11:59.681Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:11:59.704Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:12:02.772Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:12:02.790Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:12:14.798Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:12:14.818Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:12:19.830Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:12:19.866Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:12:27.858Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:12:27.887Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:12:51.708Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:12:51.725Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:12:53.914Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:12:53.931Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:13:01.178Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:13:01.197Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:13:11.546Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:13:11.566Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:13:20.510Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:13:20.530Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:13:34.071Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:13:34.092Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:13:55.698Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:13:55.719Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:14:03.972Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:14:03.992Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:14:07.188Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:14:07.215Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:14:13.065Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:14:13.104Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:14:16.523Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:14:16.540Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:14:17.712Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:14:17.736Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:14:28.509Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:14:28.537Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:14:31.391Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:14:31.411Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:14:37.388Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:14:37.407Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:14:48.747Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:14:48.766Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:14:50.726Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:14:50.746Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:14:53.340Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:14:53.364Z"}
+{"message":"db already exists with different case already have: [customerdb] trying to create [customerDB]","stack":"MongoError: db already exists with different case already have: [customerdb] trying to create [customerDB]\n    at Function.create (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\core\\error.js:57:12)\n    at toError (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\utils.js:123:22)\n    at E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\operations\\common_functions.js:265:39\n    at handler (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\core\\sdam\\topology.js:942:24)\n    at E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:350:13\n    at handleOperationResult (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\core\\sdam\\server.js:558:5)\n    at MessageStream.messageHandler (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\cmap\\connection.js:277:5)\n    at MessageStream.emit (events.js:311:20)\n    at processIncomingData (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:144:12)\n    at MessageStream._write (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:42:5)\n    at doWrite (_stream_writable.js:441:12)\n    at writeOrBuffer (_stream_writable.js:425:5)\n    at MessageStream.Writable.write (_stream_writable.js:316:11)\n    at Socket.ondata (_stream_readable.js:714:22)\n    at Socket.emit (events.js:311:20)\n    at addChunk (_stream_readable.js:294:12)","driver":true,"name":"MongoError","index":0,"code":13297,"level":"error","timestamp":"2020-11-16T12:16:47.930Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:18:21.418Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:18:21.437Z"}
+{"message":"db already exists with different case already have: [customerdb] trying to create [customerDB]","stack":"MongoError: db already exists with different case already have: [customerdb] trying to create [customerDB]\n    at Function.create (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\core\\error.js:57:12)\n    at toError (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\utils.js:123:22)\n    at E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\operations\\common_functions.js:265:39\n    at handler (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\core\\sdam\\topology.js:942:24)\n    at E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:350:13\n    at handleOperationResult (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\core\\sdam\\server.js:558:5)\n    at MessageStream.messageHandler (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\cmap\\connection.js:277:5)\n    at MessageStream.emit (events.js:311:20)\n    at processIncomingData (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:144:12)\n    at MessageStream._write (E:\\channeldata\\programmings\\node-mongo-mvc-crud\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:42:5)\n    at doWrite (_stream_writable.js:441:12)\n    at writeOrBuffer (_stream_writable.js:425:5)\n    at MessageStream.Writable.write (_stream_writable.js:316:11)\n    at Socket.ondata (_stream_readable.js:714:22)\n    at Socket.emit (events.js:311:20)\n    at addChunk (_stream_readable.js:294:12)","driver":true,"name":"MongoError","index":0,"code":13297,"level":"error","timestamp":"2020-11-16T12:18:35.521Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:19:33.319Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:19:33.337Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:19:36.541Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:19:36.558Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:22:02.451Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:22:02.471Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:22:14.459Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:22:14.479Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:22:16.073Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:22:16.091Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:22:18.896Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:22:18.924Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:22:21.420Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:22:21.440Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:22:34.697Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:22:34.719Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:22:43.685Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:22:43.702Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:09.794Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:09.812Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:14.217Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:14.236Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:16.424Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:16.442Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:18.084Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:18.111Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:21.021Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:21.087Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:26.375Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:26.410Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:28.858Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:28.875Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:35.187Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:35.204Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:39.773Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:39.792Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:42.136Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:42.162Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:46.876Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:46.898Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:49.866Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:49.884Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:23:56.232Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:23:56.248Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:24:08.154Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:24:08.173Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:24:09.486Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:24:09.507Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:24:10.660Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:24:10.678Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:24:19.744Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:24:19.765Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:24:26.463Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:24:26.482Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:24:27.681Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:24:27.703Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:26:46.621Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:26:46.639Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:26:47.582Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:26:47.599Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:28:06.580Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:28:06.598Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:28:18.917Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:28:18.938Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:28:22.874Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:28:22.893Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:28:24.076Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:28:24.120Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:34:25.668Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:34:25.693Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:37:24.008Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:37:24.025Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:37:47.030Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:37:47.047Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:37:50.648Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:37:50.668Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:39:06.614Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:39:06.632Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:39:18.453Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:39:18.470Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:39:29.052Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:39:29.075Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:39:32.080Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:39:32.098Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:39:38.981Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:39:39.000Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:39:41.086Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:39:41.118Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:40:56.423Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:40:56.446Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:41:04.886Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:41:04.906Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:41:08.455Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:41:08.474Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:41:10.090Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:41:10.108Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:41:12.273Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:41:12.293Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:41:24.103Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:41:24.130Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:41:31.509Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:41:31.527Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:41:59.456Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:41:59.495Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:42:02.247Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:42:02.264Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:42:05.494Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:42:05.516Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:42:16.123Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:42:16.143Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:42:26.763Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:42:26.781Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:42:28.307Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:42:28.328Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:42:37.743Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:42:37.762Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:42:38.871Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:42:38.890Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:42:40.886Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:42:40.909Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:42:46.120Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:42:46.146Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:42:47.616Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:42:47.633Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:42:49.216Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:42:49.233Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:43:01.962Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:43:02.071Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:43:10.627Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:43:10.648Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:43:25.643Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:43:25.663Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-16T12:43:27.129Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-16T12:43:27.152Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-11-30T15:16:17.874Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-11-30T15:16:17.898Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2020-12-09T06:29:06.574Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2020-12-09T06:29:06.620Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2021-02-18T08:31:03.273Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2021-02-18T08:31:03.315Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T05:25:09.931Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T05:25:09.945Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T05:28:24.932Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T05:28:24.945Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T05:40:54.101Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T05:40:54.126Z"}
+{"message":"Cannot read properties of undefined (reading 'find')","stack":"TypeError: Cannot read properties of undefined (reading 'find')\n    at getAllProducts (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\controllers\\productController.js:4:32)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)","level":"error","timestamp":"2024-02-21T05:40:59.759Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T05:41:48.793Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T05:41:48.807Z"}
+{"message":"Cannot read properties of undefined (reading 'find')","stack":"TypeError: Cannot read properties of undefined (reading 'find')\n    at getAllProducts (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\controllers\\productController.js:4:32)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)","level":"error","timestamp":"2024-02-21T05:41:59.064Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T05:43:41.022Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T05:43:41.046Z"}
+{"message":"Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"","stack":"Error: Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"\n    at Function.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\application.js:580:17)\n    at ServerResponse.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\response.js:1012:7)\n    at res.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAllProducts (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\controllers\\productController.js:5:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","view":{"defaultEngine":"ejs","ext":".ejs","name":"productlist","root":"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views"},"level":"error","timestamp":"2024-02-21T05:43:44.254Z"}
+{"message":"Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"","stack":"Error: Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"\n    at Function.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\application.js:580:17)\n    at ServerResponse.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\response.js:1012:7)\n    at res.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAllProducts (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\controllers\\productController.js:5:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","view":{"defaultEngine":"ejs","ext":".ejs","name":"productlist","root":"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views"},"level":"error","timestamp":"2024-02-21T05:43:45.488Z"}
+{"message":"Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"","stack":"Error: Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"\n    at Function.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\application.js:580:17)\n    at ServerResponse.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\response.js:1012:7)\n    at res.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAllProducts (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\controllers\\productController.js:5:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","view":{"defaultEngine":"ejs","ext":".ejs","name":"productlist","root":"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views"},"level":"error","timestamp":"2024-02-21T05:43:46.275Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T05:46:23.600Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T05:46:23.620Z"}
+{"message":"Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"","stack":"Error: Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"\n    at Function.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\application.js:580:17)\n    at ServerResponse.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\response.js:1012:7)\n    at res.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAllProducts (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\controllers\\productController.js:5:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","view":{"defaultEngine":"ejs","ext":".ejs","name":"productlist","root":"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views"},"level":"error","timestamp":"2024-02-21T05:46:30.242Z"}
+{"message":"Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"","stack":"Error: Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"\n    at Function.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\application.js:580:17)\n    at ServerResponse.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\response.js:1012:7)\n    at res.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAllProducts (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\controllers\\productController.js:5:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","view":{"defaultEngine":"ejs","ext":".ejs","name":"productlist","root":"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views"},"level":"error","timestamp":"2024-02-21T05:46:31.109Z"}
+{"message":"Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"","stack":"Error: Failed to lookup view \"productlist\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"\n    at Function.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\application.js:580:17)\n    at ServerResponse.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\response.js:1012:7)\n    at res.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAllProducts (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\controllers\\productController.js:5:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","view":{"defaultEngine":"ejs","ext":".ejs","name":"productlist","root":"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views"},"level":"error","timestamp":"2024-02-21T05:46:31.726Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T05:49:50.402Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T05:49:50.417Z"}
+{"message":"Failed to lookup view \"addProduct\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"","stack":"Error: Failed to lookup view \"addProduct\" in views directory \"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\"\n    at Function.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\application.js:580:17)\n    at ServerResponse.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\response.js:1012:7)\n    at res.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAddProductView (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\controllers\\productController.js:11:9)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:317:13)","view":{"defaultEngine":"ejs","ext":".ejs","name":"addProduct","root":"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views"},"level":"error","timestamp":"2024-02-21T05:50:00.644Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T05:50:45.568Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T05:50:45.583Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T05:53:27.645Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T05:53:27.658Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T05:57:05.437Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T05:57:05.451Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:02:47.596Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:02:47.611Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:05:39.319Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:05:39.334Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:06:52.312Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:06:52.335Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:08:49.801Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:08:49.816Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:09:45.814Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:09:45.828Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:13:14.333Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:13:14.346Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:18:41.599Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:18:41.619Z"}
+{"message":"Joi.String is not a function","stack":"TypeError: Joi.String is not a function\n    at validateProduct (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\models\\product.js:28:28)\n    at addProduct (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\controllers\\productController.js:15:21)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\router\\index.js:335:12)","level":"error","timestamp":"2024-02-21T06:19:16.592Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:20:04.182Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:20:04.195Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:21:00.805Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:21:00.822Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:22:57.018Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:22:57.033Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:23:58.630Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:23:58.646Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:24:17.202Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:24:17.226Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:26:23.148Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:26:23.161Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:27:40.605Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:27:40.621Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:30:43.188Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:30:43.203Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:32:27.612Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:32:27.627Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:34:50.092Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:34:50.106Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:35:19.238Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:35:19.263Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:35:49.553Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:35:49.568Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:36:04.317Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:36:04.335Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:42:55.981Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:42:55.996Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:51:12.322Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:51:12.336Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:52:12.754Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:52:12.782Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:53:07.922Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:53:07.935Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:53:29.267Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:53:29.280Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:53:55.202Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:53:55.217Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:54:14.385Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:54:14.399Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T06:58:12.818Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T06:58:12.831Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T08:14:23.505Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T08:14:23.520Z"}
+{"message":"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\\productlist.ejs:9\n    7|             <div class=\"col-8 input-group\">\n    8|                 <input id=\"searchInput\" type=\"search\" class=\"form-control rounded\" placeholder=\"Search\" aria-label=\"Search\" aria-describedby=\"search-addon\" />\n >> 9|                 <button href=\"/searchProduct/<%= product._id %>\" id=\"searchBtn\" class=\"btn btn-outline-primary\" type=\"button\">Search</button>\n    10|             </div>\n    11|             <div class=\"col-4\">\n    12|                 <a href=\"/addProduct\" class=\"btn btn-success float-right\"><i class=\"fa fa-plus mr-1\"></i>Add New Product</a>\n\nproduct is not defined","stack":"ReferenceError: D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\\productlist.ejs:9\n    7|             <div class=\"col-8 input-group\">\n    8|                 <input id=\"searchInput\" type=\"search\" class=\"form-control rounded\" placeholder=\"Search\" aria-label=\"Search\" aria-describedby=\"search-addon\" />\n >> 9|                 <button href=\"/searchProduct/<%= product._id %>\" id=\"searchBtn\" class=\"btn btn-outline-primary\" type=\"button\">Search</button>\n    10|             </div>\n    11|             <div class=\"col-4\">\n    12|                 <a href=\"/addProduct\" class=\"btn btn-success float-right\"><i class=\"fa fa-plus mr-1\"></i>Add New Product</a>\n\nproduct is not defined\n    at eval (eval at compile (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\ejs\\lib\\ejs.js:661:12), <anonymous>:12:26)\n    at productlist (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\ejs\\lib\\ejs.js:691:17)\n    at tryHandleCache (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\ejs\\lib\\ejs.js:272:36)\n    at exports.renderFile [as engine] (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\ejs\\lib\\ejs.js:489:10)\n    at View.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\application.js:640:10)\n    at Function.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\application.js:592:3)\n    at ServerResponse.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express\\lib\\response.js:1012:7)\n    at res.render (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getAllProducts (D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\controllers\\productController.js:5:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","path":"D:\\Năm 4 HK2\\Thay Phuc - Tich hop\\MVC model product - Copy\\views\\productlist.ejs","level":"error","timestamp":"2024-02-21T08:14:27.551Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T08:15:50.537Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T08:15:50.556Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-21T08:57:53.100Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-21T08:57:53.120Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T09:04:24.399Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T09:04:24.434Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T09:12:21.875Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T09:12:21.894Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T09:30:52.049Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T09:30:52.062Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T09:38:22.982Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T09:38:22.999Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T09:44:42.300Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T09:44:42.318Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T09:47:50.191Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T09:47:50.207Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T09:49:27.433Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T09:49:27.450Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T09:52:34.070Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T09:52:34.083Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:05:41.554Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:05:41.572Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:10:16.203Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:10:16.220Z"}
+{"message":"C:\\Users\\Admin\\Desktop\\MVC\\views\\searchProduct.ejs:30\n    28|             </thead>\r\n    29|             <tbody>\r\n >> 30|                 <% if(products.length > 0) { %>\r\n    31|                     <% for(let product of products) { %>\r\n    32|                     <tr>\r\n    33|                         <th scope=\"row\"><%= product.name %></th>\r\n\nproducts is not defined","stack":"ReferenceError: C:\\Users\\Admin\\Desktop\\MVC\\views\\searchProduct.ejs:30\n    28|             </thead>\r\n    29|             <tbody>\r\n >> 30|                 <% if(products.length > 0) { %>\r\n    31|                     <% for(let product of products) { %>\r\n    32|                     <tr>\r\n    33|                         <th scope=\"row\"><%= product.name %></th>\r\n\nproducts is not defined\n    at eval (C:\\Users\\Admin\\Desktop\\MVC\\views\\searchProduct.ejs:12:8)\n    at searchProduct (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\ejs\\lib\\ejs.js:691:17)\n    at tryHandleCache (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\ejs\\lib\\ejs.js:272:36)\n    at exports.renderFile [as engine] (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\ejs\\lib\\ejs.js:489:10)\n    at View.render (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\application.js:640:10)\n    at Function.render (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\application.js:592:3)\n    at ServerResponse.render (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\response.js:1012:7)\n    at res.render (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getSearchProductView (C:\\Users\\Admin\\Desktop\\MVC\\controllers\\productController.js:12:9)\n    at Layer.handle [as handle_request] (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\index.js:335:12)","path":"C:\\Users\\Admin\\Desktop\\MVC\\views\\searchProduct.ejs","level":"error","timestamp":"2024-02-23T10:10:19.310Z"}
+{"message":"C:\\Users\\Admin\\Desktop\\MVC\\views\\searchProduct.ejs:30\n    28|             </thead>\r\n    29|             <tbody>\r\n >> 30|                 <% if(products.length > 0) { %>\r\n    31|                     <% for(let product of products) { %>\r\n    32|                     <tr>\r\n    33|                         <th scope=\"row\"><%= product.name %></th>\r\n\nproducts is not defined","stack":"ReferenceError: C:\\Users\\Admin\\Desktop\\MVC\\views\\searchProduct.ejs:30\n    28|             </thead>\r\n    29|             <tbody>\r\n >> 30|                 <% if(products.length > 0) { %>\r\n    31|                     <% for(let product of products) { %>\r\n    32|                     <tr>\r\n    33|                         <th scope=\"row\"><%= product.name %></th>\r\n\nproducts is not defined\n    at eval (C:\\Users\\Admin\\Desktop\\MVC\\views\\searchProduct.ejs:12:8)\n    at searchProduct (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\ejs\\lib\\ejs.js:691:17)\n    at tryHandleCache (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\ejs\\lib\\ejs.js:272:36)\n    at exports.renderFile [as engine] (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\ejs\\lib\\ejs.js:489:10)\n    at View.render (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\application.js:640:10)\n    at Function.render (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\application.js:592:3)\n    at ServerResponse.render (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\response.js:1012:7)\n    at res.render (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express-ejs-layouts\\lib\\express-layouts.js:77:18)\n    at getSearchProductView (C:\\Users\\Admin\\Desktop\\MVC\\controllers\\productController.js:12:9)\n    at Layer.handle [as handle_request] (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Admin\\Desktop\\MVC\\node_modules\\express\\lib\\router\\index.js:335:12)","path":"C:\\Users\\Admin\\Desktop\\MVC\\views\\searchProduct.ejs","level":"error","timestamp":"2024-02-23T10:10:24.522Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:14:23.852Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:14:23.869Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:16:13.608Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:16:13.631Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:17:44.272Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:17:44.292Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:18:18.649Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:18:18.664Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:21:52.755Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:21:52.773Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:32:32.156Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:32:32.181Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:35:36.503Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:35:36.518Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:37:26.937Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:37:26.959Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:38:28.564Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:38:28.583Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:40:07.268Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:40:07.285Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:40:50.687Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:40:50.727Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:41:50.600Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:41:50.614Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T10:42:57.839Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T10:42:57.861Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T11:23:52.531Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T11:23:52.548Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T11:37:29.851Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T11:37:29.867Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T11:38:54.435Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T11:38:54.459Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T11:41:41.863Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T11:41:41.887Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T11:52:47.151Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T11:52:47.167Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-23T12:01:21.213Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-23T12:01:21.236Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T06:55:50.479Z"}
+{"message":"","stack":"MongooseServerSelectionError\n    at Connection.openUri (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongoose\\lib\\connection.js:821:32)\n    at C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongoose\\lib\\index.js:342:10\n    at C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:31:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:30:10)\n    at Mongoose.connect (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongoose\\lib\\index.js:341:10)\n    at module.exports (C:\\Users\\tidan\\Desktop\\MVC\\startup\\db.js:5:14)\n    at Object.<anonymous> (C:\\Users\\tidan\\Desktop\\MVC\\index.js:12:24)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Module._load (node:internal/modules/cjs/loader:1023:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)\n    at node:internal/main/run_main_module:28:49","reason":{"type":"Unknown","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null},"level":"error","timestamp":"2024-02-26T06:56:20.485Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T06:56:46.735Z"}
+{"message":"","stack":"MongooseServerSelectionError\n    at Connection.openUri (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongoose\\lib\\connection.js:821:32)\n    at C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongoose\\lib\\index.js:342:10\n    at C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:31:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:30:10)\n    at Mongoose.connect (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongoose\\lib\\index.js:341:10)\n    at module.exports (C:\\Users\\tidan\\Desktop\\MVC\\startup\\db.js:5:14)\n    at Object.<anonymous> (C:\\Users\\tidan\\Desktop\\MVC\\index.js:12:24)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Module._load (node:internal/modules/cjs/loader:1023:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)\n    at node:internal/main/run_main_module:28:49","reason":{"type":"Unknown","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null},"level":"error","timestamp":"2024-02-26T06:57:16.735Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:03:54.848Z"}
+{"message":"bad auth : authentication failed","stack":"MongoError: bad auth : authentication failed\n    at MessageStream.messageHandler (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongodb\\lib\\cmap\\connection.js:268:20)\n    at MessageStream.emit (node:events:518:28)\n    at processIncomingData (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:144:12)\n    at MessageStream._write (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:42:5)\n    at writeOrBuffer (node:internal/streams/writable:564:12)\n    at _write (node:internal/streams/writable:493:10)\n    at Writable.write (node:internal/streams/writable:502:10)\n    at TLSSocket.ondata (node:internal/streams/readable:1007:22)\n    at TLSSocket.emit (node:events:518:28)\n    at addChunk (node:internal/streams/readable:559:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)\n    at Readable.push (node:internal/streams/readable:390:5)\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:190:23)","ok":0,"code":8000,"codeName":"AtlasError","name":"MongoError","level":"error","timestamp":"2024-02-26T07:03:56.327Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:10:13.563Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:10:14.839Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:23:01.869Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:23:06.474Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:25:04.996Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:25:05.864Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:27:24.058Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:27:25.012Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:29:55.135Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:30:02.900Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:33:16.525Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:33:17.372Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:35:31.310Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:35:32.319Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:36:45.211Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:36:46.224Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:41:33.646Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:41:34.740Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:43:25.892Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:43:30.529Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:44:33.069Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:44:35.090Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:45:02.674Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:45:03.628Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\express\\lib\\response.js:170:12)\n    at getOneProduct (C:\\Users\\tidan\\Desktop\\MVC\\controllers\\productController.js:26:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2024-02-26T07:45:12.561Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:46:13.961Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:46:14.892Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.contentType (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\express\\lib\\response.js:599:15)\n    at ServerResponse.send (C:\\Users\\tidan\\Desktop\\MVC\\node_modules\\express\\lib\\response.js:145:14)\n    at getOneProduct (C:\\Users\\tidan\\Desktop\\MVC\\controllers\\productController.js:26:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2024-02-26T07:46:18.382Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:47:11.676Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:47:12.913Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-02-26T07:48:53.830Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-02-26T07:48:54.861Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T00:02:49.334Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T00:02:49.967Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T00:11:32.826Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T00:11:33.518Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T01:38:47.965Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T01:38:48.552Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T11:51:07.422Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T11:51:08.037Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T12:03:29.111Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T12:03:30.220Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T12:12:10.403Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T12:12:11.081Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T12:16:58.768Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T12:16:59.370Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T12:18:43.185Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T12:18:43.766Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T12:26:20.000Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T12:26:20.577Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T12:29:20.062Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T12:29:20.626Z"}
+{"message":"Product validation failed: color: Path `color` is required., size: Path `size` is required., oldprice: Path `oldprice` is required., newprice: Path `newprice` is required., trademark: Path `trademark` is required.","stack":"ValidationError: Product validation failed: color: Path `color` is required., size: Path `size` is required., oldprice: Path `oldprice` is required., newprice: Path `newprice` is required., trademark: Path `trademark` is required.\n    at Document.invalidate (C:\\BT lon cong nghe moi\\MVC\\node_modules\\mongoose\\lib\\document.js:2626:32)\n    at C:\\BT lon cong nghe moi\\MVC\\node_modules\\mongoose\\lib\\document.js:2446:17\n    at C:\\BT lon cong nghe moi\\MVC\\node_modules\\mongoose\\lib\\schematype.js:1225:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","errors":{"color":{"name":"ValidatorError","message":"Path `color` is required.","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"},"size":{"name":"ValidatorError","message":"Path `size` is required.","properties":{"message":"Path `size` is required.","type":"required","path":"size"},"kind":"required","path":"size"},"oldprice":{"name":"ValidatorError","message":"Path `oldprice` is required.","properties":{"message":"Path `oldprice` is required.","type":"required","path":"oldprice"},"kind":"required","path":"oldprice"},"newprice":{"name":"ValidatorError","message":"Path `newprice` is required.","properties":{"message":"Path `newprice` is required.","type":"required","path":"newprice"},"kind":"required","path":"newprice"},"trademark":{"name":"ValidatorError","message":"Path `trademark` is required.","properties":{"message":"Path `trademark` is required.","type":"required","path":"trademark"},"kind":"required","path":"trademark"}},"_message":"Product validation failed","level":"error","timestamp":"2024-03-07T12:29:53.979Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T12:31:02.892Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T12:31:03.470Z"}
+{"message":"Product validation failed: color: Path `color` is required., size: Path `size` is required., oldprice: Path `oldprice` is required., newprice: Path `newprice` is required., trademark: Path `trademark` is required.","stack":"ValidationError: Product validation failed: color: Path `color` is required., size: Path `size` is required., oldprice: Path `oldprice` is required., newprice: Path `newprice` is required., trademark: Path `trademark` is required.\n    at Document.invalidate (C:\\BT lon cong nghe moi\\MVC\\node_modules\\mongoose\\lib\\document.js:2626:32)\n    at C:\\BT lon cong nghe moi\\MVC\\node_modules\\mongoose\\lib\\document.js:2446:17\n    at C:\\BT lon cong nghe moi\\MVC\\node_modules\\mongoose\\lib\\schematype.js:1225:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","errors":{"color":{"name":"ValidatorError","message":"Path `color` is required.","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"},"size":{"name":"ValidatorError","message":"Path `size` is required.","properties":{"message":"Path `size` is required.","type":"required","path":"size"},"kind":"required","path":"size"},"oldprice":{"name":"ValidatorError","message":"Path `oldprice` is required.","properties":{"message":"Path `oldprice` is required.","type":"required","path":"oldprice"},"kind":"required","path":"oldprice"},"newprice":{"name":"ValidatorError","message":"Path `newprice` is required.","properties":{"message":"Path `newprice` is required.","type":"required","path":"newprice"},"kind":"required","path":"newprice"},"trademark":{"name":"ValidatorError","message":"Path `trademark` is required.","properties":{"message":"Path `trademark` is required.","type":"required","path":"trademark"},"kind":"required","path":"trademark"}},"_message":"Product validation failed","level":"error","timestamp":"2024-03-07T12:31:33.901Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T12:35:21.822Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T12:35:22.412Z"}
+{"message":"Product validation failed: color: Path `color` is required., size: Path `size` is required., oldprice: Path `oldprice` is required., newprice: Path `newprice` is required., trademark: Path `trademark` is required.","stack":"ValidationError: Product validation failed: color: Path `color` is required., size: Path `size` is required., oldprice: Path `oldprice` is required., newprice: Path `newprice` is required., trademark: Path `trademark` is required.\n    at Document.invalidate (C:\\BT lon cong nghe moi\\MVC\\node_modules\\mongoose\\lib\\document.js:2626:32)\n    at C:\\BT lon cong nghe moi\\MVC\\node_modules\\mongoose\\lib\\document.js:2446:17\n    at C:\\BT lon cong nghe moi\\MVC\\node_modules\\mongoose\\lib\\schematype.js:1225:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","errors":{"color":{"name":"ValidatorError","message":"Path `color` is required.","properties":{"message":"Path `color` is required.","type":"required","path":"color"},"kind":"required","path":"color"},"size":{"name":"ValidatorError","message":"Path `size` is required.","properties":{"message":"Path `size` is required.","type":"required","path":"size"},"kind":"required","path":"size"},"oldprice":{"name":"ValidatorError","message":"Path `oldprice` is required.","properties":{"message":"Path `oldprice` is required.","type":"required","path":"oldprice"},"kind":"required","path":"oldprice"},"newprice":{"name":"ValidatorError","message":"Path `newprice` is required.","properties":{"message":"Path `newprice` is required.","type":"required","path":"newprice"},"kind":"required","path":"newprice"},"trademark":{"name":"ValidatorError","message":"Path `trademark` is required.","properties":{"message":"Path `trademark` is required.","type":"required","path":"trademark"},"kind":"required","path":"trademark"}},"_message":"Product validation failed","level":"error","timestamp":"2024-03-07T12:35:58.129Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T12:37:06.178Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T12:37:06.706Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-07T12:39:39.393Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-07T12:39:39.929Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-10T07:28:18.525Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-10T07:28:19.092Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-10T07:30:39.670Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-10T07:30:40.251Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-10T07:38:34.041Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-10T07:38:34.687Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-10T07:39:38.487Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-10T07:39:39.080Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-10T07:49:38.090Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-10T07:49:38.698Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-10T07:52:12.096Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-10T07:52:12.677Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-10T11:18:06.518Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-10T11:18:07.189Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-10T11:22:07.734Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-10T11:22:08.332Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-27T14:30:43.011Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-27T14:30:44.184Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-27T14:31:43.340Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-27T14:31:44.415Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-28T16:35:04.429Z"}
+{"message":"bad auth : Authentication failed.","stack":"MongoError: bad auth : Authentication failed.\n    at MessageStream.messageHandler (C:\\Users\\dangn\\Downloads\\Server\\Server\\node_modules\\mongodb\\lib\\cmap\\connection.js:268:20)\n    at MessageStream.emit (node:events:518:28)\n    at processIncomingData (C:\\Users\\dangn\\Downloads\\Server\\Server\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:144:12)\n    at MessageStream._write (C:\\Users\\dangn\\Downloads\\Server\\Server\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:42:5)\n    at writeOrBuffer (node:internal/streams/writable:564:12)\n    at _write (node:internal/streams/writable:493:10)\n    at Writable.write (node:internal/streams/writable:502:10)\n    at TLSSocket.ondata (node:internal/streams/readable:1007:22)\n    at TLSSocket.emit (node:events:518:28)\n    at addChunk (node:internal/streams/readable:559:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)\n    at Readable.push (node:internal/streams/readable:390:5)\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:190:23)","ok":0,"code":8000,"codeName":"AtlasError","name":"MongoError","level":"error","timestamp":"2024-03-28T16:35:05.173Z"}
+{"level":"info","message":"App is listening on url http://localhost:8080","timestamp":"2024-03-28T16:38:02.299Z"}
+{"level":"info","message":"MongoDb connected successfuly...","timestamp":"2024-03-28T16:38:02.947Z"}

@@ -1,0 +1,73 @@
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col-8">
+                <h4 class="font-weight-bold">All Products</h4>
+            </div>
+            <div class="col-8 input-group">
+                <input id="searchInput" type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+                <button id="searchBtn" href="/searchProduct" class="btn btn-outline-primary" type="button">Search</button>
+            </div>
+            <div class="col-4">
+                <a href="/addProduct" class="btn btn-success float-right"><i class="fa fa-plus mr-1"></i>Add New Product</a>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <table class="table table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Product Code</th>
+                    <th scope="col">Trademark</th>
+                    <th scope="col">New price</th>
+                    <th scope="col">Old price</th>
+                    <th scope="col">Size</th>
+                    <th scope="col">Color</th>
+                    <th scope="col">Quantity</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% if(products.length > 0) { %>
+                    <% for(let product of products) { %>
+                    <tr>
+                        <th scope="row"><%= product.name %></th>
+                        <td><%= product.productnumber %></td>
+                        <td><%= product.trademark %></td>
+                        <td><%= product.newprice %></td>
+                        <td><%= product.oldprice %></td>
+                        <td><%= product.size %></td>
+                        <td><%= product.color %></td>
+                        <td><%= product.quantity %></td>
+                        <td><%= product.description %></td>
+                        <td>
+                            <a href="/updateProduct/<%= product._id %>" class="btn btn-sm btn-warning"><i class="fa fa-edit"></i></a>
+                            <a href="/deleteProduct/<%= product._id %>" class="btn btn-sm btn-danger"><i class="fa fa-trash"></i></a>
+                        </td>
+                    </tr>
+                    <% } %>
+                <% } else { %>
+                    <tr>
+                        <td>NO DATA FOUND</td>
+                    </tr>
+                <% } %>
+            </tbody>
+            </table>
+    </div>
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const searchBtn = document.getElementById('searchBtn');
+        const searchInput = document.getElementById('searchInput');
+
+        searchBtn.addEventListener('click', function () {
+            const searchValue = searchInput.value.trim();
+            if (searchValue !== '') {
+                // Chuyển hướng đến trang tìm kiếm với tham số query
+                window.location.href = '/searchProduct/' + searchValue;
+            }
+        });
+    });
+</script>
